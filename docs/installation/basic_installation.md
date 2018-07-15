@@ -58,7 +58,7 @@ If you would prefer less automation, or you  already have existing services on y
 
     <p>Once the preparations are done, the installer will prompt you to run <code>seat install:production</code>. </p>
 
-    <p>To configure ESI for SSO and API pulls, please refer to the <a href="/configuration/esi_configuration/">Configuring ESI</a> documentation page</p>
+    <p>To configure ESI for SSO and API pulls, please refer to the <a href="/docs/configuration/esi_configuration/">Configuring ESI</a> documentation page</p>
 
 </div>
 </section>
